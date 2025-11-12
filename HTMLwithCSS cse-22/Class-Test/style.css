@@ -1,0 +1,59 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: beige;
+}
+
+
+.productdetails{
+
+   padding: 15px;
+    width: 300px;
+    background-color: green;
+    border: 2px solid grey ;
+    margin:  auto;
+
+    border-radius: 4%;
+
+
+}
+
+
+.cart{
+
+    background-color: blueviolet;
+    color: white;
+    width: 200px;
+    height: 35px;
+    border-radius:10px ;
+
+
+}
+
+
+.price{
+
+    color: red;
+
+}
+
+
+.product-image{
+
+
+
+    background-image: url("nothing-phone-3a-pro-1.jpg");
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+}
+
+
+.cart:hover{
+
+
+
+    background-color: burlywood;
+}
+
+
