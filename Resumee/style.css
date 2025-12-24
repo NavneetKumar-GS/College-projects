@@ -1,0 +1,21 @@
+.bio{
+
+
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+
+    color: #D16666;
+}
+th{
+
+background-color: #2C4251;
+color: white;
+}
+
+
+table{
+border-collapse: collapse;
+width: 100%;
+}
